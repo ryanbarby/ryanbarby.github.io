@@ -1,0 +1,39 @@
+
+p {
+    font-family: sans-serif;
+    color: #FE2E9A;
+}
+#awesomeText { font-family: 'Times New Roman', Georgia, Serif; }
+.pink { color: #FE2E9A; }
+.center { text-align:center; }
+.container { margin: 0 auto; }
+
+body {
+	 background-color: #BDBDBD;
+} 
+
+	 
+#customers {
+    font-family: sans-serif;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    font-size: 14px;
+    border: 2px solid #FE2E9A;
+    padding: 5px 20px 2px 7px;
+}
+
+#customers th {
+    font-size: 2em;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #FFFFFF;
+    color: #FE2E9A;
+}
+
+#customers tr.alt td {
+    color: #000000;
+    background-color: #FFFFFF;
+}
