@@ -12,6 +12,13 @@ body {
 	 background-color: #BDBDBD;
 } 
 
+.bigfont {
+	font-size: 34px;
+}
+
+.margin50 {
+	margin-bottom: 50px;
+}
 	 
 #customers {
     font-family: sans-serif;
